@@ -26,3 +26,10 @@ Finland = flagg("white", "blue", "blue")
 Danmark = flagg("red", "white", "red")
 Faeroyene = flagg("white", "red", "blue")
 Island = flagg("blue", "red", "white")
+
+Norge
+Sverige
+Finland
+Danmark
+Faeroyene
+Island
